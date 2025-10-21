@@ -2,7 +2,7 @@
 
 ![Stars](https://img.shields.io/github/stars/arcangel0/MiSide-sddm-theme?color=dd864a&labelColor=1b1b25&style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/arcangel0/MiSide-sddm-theme?color=bf616a&labelColor=1b1b25&style=for-the-badge)
-[![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/arcangel0)
+[![Ko-fi](https://img.shields.io/badge/support_me_on_ko--fi-F16061?style=for-the-badge&logo=kofi&logoColor=f5f5f5)](https://ko-fi.com/henryarcangelo)
 
 MiSide SDDM Theme is a login screen theme for [SDDM](https://github.com/sddm/sddm/), made to look like the menu in **MiSide**, featuring our favorite (crazy) character **Mita 💕**  
 
